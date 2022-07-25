@@ -28,8 +28,8 @@ thead {
 li >img{ display: none;}
 
 #teamRoster > li:first-child {
-  background: url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg%22);
+  background: url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.");
   background-repeat: no-repeat;
   background-position: left top;
-  
+
 }
