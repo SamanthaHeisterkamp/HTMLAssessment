@@ -1,3 +1,35 @@
 .subjectHeader {
-  color: green;
+  color: teal;
+  font-family: cursive;
+}
+p:nth-of-type(2) {
+  background-color: yellow;
+}
+ul {
+  list-style-type: square;
+}
+form ul{
+  list-style-type:none;
+}
+table {
+  border: 1px solid;
+  border-color: teal;
+
+}
+table#scoreBoard{
+  text-align: center;
+}
+thead {
+  color: pink;
+}
+.hyperLink:hover { color: yellow;}
+.hyperLink:hover { text-decoration: none;}
+
+li >img{ display: none;}
+
+#teamRoster > li:first-child {
+  background: url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg%22);
+  background-repeat: no-repeat;
+  background-position: left top;
+  
 }
